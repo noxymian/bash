@@ -5,13 +5,13 @@
 * How to use it ?
     * Include the file **sendMail.sh** at the beginning of your script :
 
-    ```
+    ```bash
     source /path/to/sendMail.sh
     or
     . /path/to/sendMail.sh
     ```
     * You can also add this function directly into your script file.
     * Then :
-    ```
+    ```bash
     send_email "recipient@example.com" "Subject line" "Message body"
     ```
