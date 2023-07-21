@@ -5,7 +5,7 @@
 * Just update the PS1 variable of your .bashrc
 * Example :
 
-```
+```bash
 nano /home/yourUser/.bashrc
 ```
 * Replace the content after **PS1=**
