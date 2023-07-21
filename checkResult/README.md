@@ -7,7 +7,7 @@
 * How to use it ?
     * Include the file **checkResult.sh** at the beginning of your script :
 
-    ```
+    ```bash
     source /path/to/checkResult.sh
     or
     . /path/to/checkResult.sh
